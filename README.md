@@ -130,6 +130,7 @@ Sau khi có .exe hãy ném vào máy ảo ! À khoan đã trong máy ảo Win10x
 </p>
 
 
+**Click Vào Hình Bên Dưới để nhảy tới video youtube nhé**
 [![Xem Video](https://img.youtube.com/vi/IrpNkHJCizU/maxresdefault.jpg)](https://www.youtube.com/watch?v=IrpNkHJCizU)
 
 # Analysis V1
