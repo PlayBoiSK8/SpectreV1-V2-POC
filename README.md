@@ -7,7 +7,7 @@
 Yeah và chính nó , đã được các nhà nghiên cứu thế hệ trước tìm cách leak các dữ liệu ( trong 2 poc bài này sẽ nhắm vào strings ) từ việc dự đoán và chạy trước của cpu. 
 
 <p align="center">
-&#x20; <img src="./Image/1.png" alt="Pipelining">
+&#x20; <img src="./Image/1.jpg" alt="Pipelining">
 </p>
 
 -   **FI (Fetch Instruction - Nhận lệnh):** CPU đi vào bộ nhớ (Cache hoặc RAM), tìm đến địa chỉ mà thanh ghi `IP` đang trỏ tới để "bốc" đúng mã máy của câu lệnh đó mang về.
@@ -100,7 +100,7 @@ Lúc này mấy ông bật cmd admin trên máy ảo paste full combo này vào 
 
 
 
-## POC Sepctre V1
+# POC Sepctre V1
 Trước khi bắt đầu thì PoC này tui copy về để dựng chứ chưa đủ trình để viết từ đầu đâu nhé : https://github.com/Eugnis/spectre-attack/tree/master 
 
 
@@ -128,10 +128,12 @@ Sau khi có .exe hãy ném vào máy ảo ! À khoan đã trong máy ảo Win10x
 <p align="center">
 &#x20; <img src="./Image/res1.png" alt="poc1">
 </p>
-https://www.youtube.com/watch?v=bqnB_JY-VBY
 
 
-## Analysis V1
+**Click Vào Hình Bên Dưới để nhảy tới video youtube nhé**
+[![Xem Video](https://img.youtube.com/vi/IrpNkHJCizU/maxresdefault.jpg)](https://www.youtube.com/watch?v=IrpNkHJCizU)
+
+# Analysis V1
 
 Chuyện quái gì đã xảy ra ? Giờ chúng ta cùng phân tích code nhé ! Như tui đã nói trước đó , chúng ta sẽ lợi dụng chính tính năng mà con người chúng ta tạo ra ! Ở PoC này việc mà ta ép nó thực hiện sẽ chảy theo 1 dòng flow khá dễ hiểu như sau : 
 
@@ -206,7 +208,7 @@ Thú thật tui đã hơi ngáo khi đọc hiểu lại code sample của tác g
     	score[1] = results[k];
     }
 
-## POC Sepctre V2
+# POC Sepctre V2
 
 Trước khi bắt đầu thì PoC này tui copy về để dựng chứ chưa đủ trình để viết từ đầu đâu nhé : https://github.com/Anton-Cao/spectrev2-poc/tree/master
 
