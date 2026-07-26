@@ -130,8 +130,7 @@ Sau khi có .exe hãy ném vào máy ảo ! À khoan đã trong máy ảo Win10x
 </p>
 
 
-[<iframe width="1035" height="582" src="https://www.youtube.com/embed/IrpNkHJCizU?list=PL6PmVDihQtBAJelRhoyiBEZ1WSBM9t-T5" title="Spectre V1 + V2 Research" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-](https://youtu.be/IrpNkHJCizU?si=6ZD93pQBbEa3qAlN)
+[![Xem Video](https://img.youtube.com/vi/IrpNkHJCizU/maxresdefault.jpg)](https://www.youtube.com/watch?v=IrpNkHJCizU)
 
 # Analysis V1
 
